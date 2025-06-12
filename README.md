@@ -17,5 +17,7 @@ parameters, including total time of flight, time to reach maximum height, maximu
 displacement, landing velocity, velocity magnitude, and velocity direction.
 
 Assumptions made: 
-Gravity = 9.81m/s2 
-Air resistance is negligible  
+1. Gravity = 9.81m/s2 
+2. Air resistance is negligible  
+
+To run the program, run script.m
